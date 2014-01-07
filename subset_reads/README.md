@@ -1,6 +1,6 @@
 subset_reads.rb
 ============
-
+```
 Summary:
   subset_reads.rb: randomly select reads from a FASTQ input(s); Input
                   can be either shuffled or unshuffled FASTQ files.
@@ -34,3 +34,4 @@ Options:
        --verbose, -v:   give verbose output during run
        --version, -e:   Print version and exit
           --help, -h:   Show this message
+```
